@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Haitham Saad
 - 👀 I’m interested in soccer, reading & learning.
 - 🌱 I’m currently learning CS50.
-- 💞️ I’m looking to collaborate on final prject.
+- 💞️ I’m looking to collaborate during the course.
 - 📫 How to reach me by mail: haithamwagih@live.com
 
 <!---
